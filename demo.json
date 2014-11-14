@@ -1,0 +1,11 @@
+{
+  "apps" : [{
+    "name"       : "hello",
+    "interpreter": "bash",
+    "exec_mode"  : "fork_mode"
+  }, {
+    "name"       : "another",
+    "interpreter": "ruby",
+    "exec_mode"  : "fork_mode"
+  }]
+}

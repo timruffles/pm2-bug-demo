@@ -1,0 +1,4 @@
+while true; do
+  echo this works
+  sleep 1
+done
